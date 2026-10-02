@@ -5,11 +5,10 @@ A full-stack interview application enabling seamless interaction between candida
 
 ## Authors
 
-- [Piyush Garg](https://www.github.com/piyush210106)
 - [Anmol Pandey](https://www.github.com/BeholdCalvin)
+- [Nikita Chittoor](https://www.github.com/niki-1003)
+- [Piyush Garg](https://www.github.com/piyush210106)
 - [Pragya Agarwal](https://www.github.com/ctrl-alt-elite1)
-- [Nikita](https://www.github.com/niki-1003)
-
 
 ## Demo
 
